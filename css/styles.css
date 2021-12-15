@@ -81,6 +81,12 @@ body {
     padding: 0.5%;
 }
 
+footer {
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
 
 /* Clear floats after the columns */
 
